@@ -8,7 +8,7 @@ This project involves designing and querying a relational database system for an
 
 - **Project Title:** Online Book Store
 - **Technology Used:** SQL (Structured Query Language)
-- **Database:** MySQL / PostgreSQL / SQLite (choose your DBMS)
+- **Database:** MySQL 
 - **Type:** Academic / Personal SQL Project
 - **Focus:** Database design, data manipulation, and analysis using SQL queries
 
